@@ -115,9 +115,7 @@ export class DataService {
 				totalSize !== 0 &&
 				totalDownloaded === totalSize &&
 				downloadProgress.status === 'downloading';
-			console.log(totalSize);
-			console.log(totalDownloaded);
-			console.log(downloadProgress);
+				
 			if (completed) {
 				downloadProgress.status = 'completed';
 				this.downloadProgress$.next({ ...downloadProgress });
@@ -170,6 +168,7 @@ export class DataService {
 								case HttpEventType.Response:
 									switch (file.name) {
 										case 'Fordon.json':
+											console.log('Fordon.json was loaded');
 											this._fordon$.next(event.body as Fordon[]);
 											break;
 										case 'FordonFordonskategorier.json':
