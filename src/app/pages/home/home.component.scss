@@ -3,4 +3,33 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('../../../assets/images/background.PNG');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.box {
+	background-color: white;
+	border-radius: 4px;
+	padding: 16px;
+	box-sizing: border-box;
+	width: calc(100% - 32px);
+	max-width: 512px;
+}
+
+.box-heading {
+	display: flex;
+	justify-content: center;
+	font-weight: 500;
+}
+
+.box-subheading {
+	margin-top: 16px;
+}
+
+.box-actions {
+	display: flex;
+	justify-content: center;
+	margin-top: 16px;
 }

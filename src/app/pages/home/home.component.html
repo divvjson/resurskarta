@@ -1,7 +1,37 @@
-<button *ngIf="(dataService.downloadProgress$ | async)?.status === null" mat-raised-button color="primary" (click)="load()">
-	LADDA DATA
-</button>
-
-<button *ngIf="(dataService.downloadProgress$ | async)?.status === 'completed'" mat-raised-button color="primary" (click)="start()">
-	STARTA SIMULERING
-</button>
+<div class="box mat-elevation-z4">
+	<div class="box-heading">Välkommen till Resurskartan</div>
+	<div class="box-subheading">Utforska fordon i realtid på en karta. Med resurskartan kan du:</div>
+	<div class="box-subheading">
+		<span>🚗</span>
+		<span style="font-weight: 500;">&nbsp;Spåra Fordon i Realtid.</span>
+		<span>&nbsp;Följ fordonens positioner i realtid när de rör sig på vägarna.</span>
+	</div>
+	<div class="box-subheading">
+		<span>🔍</span>
+		<span style="font-weight: 500;">&nbsp;Sök med Lätthet.</span>
+		<span>&nbsp;Ange registreringsnumret för att snabbt hitta det fordon du söker.</span>
+	</div>
+	<div class="box-subheading">
+		<span>📋</span>
+		<span style="font-weight: 500;">&nbsp;Filtrera Efter Dina Behov.</span>
+		<span>&nbsp;Oavsett om du letar efter specifika registreringsnummer, resurskategorier eller fordonskategorier, har vi verktygen för att göra din sökning enkel och effektiv.</span>
+	</div>
+	<div class="box-subheading">
+		<span>⬆️</span>
+		<span style="font-weight: 500;">&nbsp;Importera & Exportera Filter.</span>
+		<span>&nbsp;Spara tid och effektivisera ditt arbete genom att enkelt importera eller exportera dina personliga filterinställningar.</span>
+	</div>
+	<div class="box-subheading">
+		<span>📌</span>
+		<span style="font-weight: 500;">&nbsp;Fordonsdetaljer med ett Klick.</span>
+		<span>&nbsp;Vill du veta mer om ett specifikt fordon? Klicka bara på det för att se vem som kör, dess nuvarande adress och mycket mer!</span>
+	</div>
+	<div class="box-actions">
+		<button *ngIf="(dataService.downloadProgress$ | async)?.status === null" mat-raised-button color="primary" (click)="load()">
+			LADDA DATA
+		</button>
+		<button *ngIf="(dataService.downloadProgress$ | async)?.status === 'completed'" mat-raised-button color="primary" (click)="start()">
+			STARTA SIMULERING
+		</button>
+	</div>
+</div>
