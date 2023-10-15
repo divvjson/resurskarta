@@ -115,7 +115,9 @@ export class DataService {
 				totalSize !== 0 &&
 				totalDownloaded === totalSize &&
 				downloadProgress.status === 'downloading';
-
+			console.log(totalSize);
+			console.log(totalDownloaded);
+			console.log(downloadProgress);
 			if (completed) {
 				downloadProgress.status = 'completed';
 				this.downloadProgress$.next({ ...downloadProgress });
