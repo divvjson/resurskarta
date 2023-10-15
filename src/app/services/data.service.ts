@@ -115,7 +115,7 @@ export class DataService {
 				totalSize !== 0 &&
 				totalDownloaded === totalSize &&
 				downloadProgress.status === 'downloading';
-				
+
 			if (completed) {
 				downloadProgress.status = 'completed';
 				this.downloadProgress$.next({ ...downloadProgress });
@@ -168,26 +168,32 @@ export class DataService {
 								case HttpEventType.Response:
 									switch (file.name) {
 										case 'Fordon.json':
-											console.log('Fordon.json was loaded');
 											this._fordon$.next(event.body as Fordon[]);
+											this.setLoaded(file.name);
 											break;
 										case 'FordonFordonskategorier.json':
 											this._fordonFordonskategorier$.next(event.body as FordonFordonskategorier[]);
+											this.setLoaded(file.name);
 											break;
 										case 'Fordonskategorier.json':
 											this._fordonskategorier$.next(event.body as Fordonskategorier[]);
+											this.setLoaded(file.name);
 											break;
 										case 'Matvarde.json':
 											this._matvarden$.next(event.body as Matvarde[]);
+											this.setLoaded(file.name);
 											break;
 										case 'Resurser.json':
 											this._resurser$.next(event.body as Resurser[]);
+											this.setLoaded(file.name);
 											break;
 										case 'Resurskategorier.json':
 											this._resurskategorier$.next(event.body as Resurskategorier[]);
+											this.setLoaded(file.name);
 											break;
 										case 'ResursResurskategorier.json':
 											this._resursResurskategorier$.next(event.body as ResursResurskategorier[]);
+											this.setLoaded(file.name);
 											break;
 										default:
 											throw new Error('No match');
@@ -198,5 +204,22 @@ export class DataService {
 						.subscribe();
 				}
 			});
+	}
+
+	private setLoaded(fileName: string) {
+		console.log(`${fileName} was loaded`);
+		const currentDownloadProgress = this.downloadProgress$.getValue();
+		const currentFileProgress = currentDownloadProgress.files.filter(file => file.fileName === fileName).at(0)!;
+		const files = currentDownloadProgress.files.filter(file => file.fileName !== fileName);
+		const newFileProgress: FileProgress = {
+			downloaded: currentFileProgress.size,
+			fileName: fileName,
+			size: currentFileProgress.size,
+		};
+		files.push(newFileProgress);
+		this.downloadProgress$.next({
+			...currentDownloadProgress,
+			files: files,
+		});
 	}
 }
