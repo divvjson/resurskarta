@@ -1,0 +1,84 @@
+<div class="header">
+	<span class="title">Meny</span>
+	<button mat-mini-fab color="primary" (click)="mapService.closeDrawer()" cdkFocusInitial>
+		<mat-icon>close</mat-icon>
+	</button>
+</div>
+<mat-divider />
+<div class="find">
+	<span class="subtitle">Hitta</span>
+	<div class="find-container">
+		<mat-form-field>
+			<mat-label class="find-container-label">Registreringsnummer</mat-label>
+			<input class="find-container-input" type="text" matInput autocomplete="off" spellcheck="false" [formControl]="findResursFormControl">
+		</mat-form-field>
+		<button class="find-container-button" mat-raised-button [disabled]="!findResursFormControl.value" (click)="findResurs()">
+			<mat-icon class="find-container-button-icon">location_searching</mat-icon>
+		</button>
+	</div>
+	<mat-chip-listbox class="find-chips" *ngIf="resursChips.length > 0">
+		<mat-chip-option *ngFor="let resursChip of resursChips" [selected]="(mapService.focusedResurs$ | async)?.current?.pk === resursChip.pk" (click)="handleResursChipClicked(resursChip)">
+			<span>{{ resursChip.fkFordonNavigation?.regnr }}</span>
+			<button matChipRemove (click)="removeResursChip(resursChip)">
+				<mat-icon>cancel</mat-icon>
+			</button>
+		</mat-chip-option>
+	</mat-chip-listbox>
+</div>
+<mat-divider />
+<div class="filter">
+	<span class="subtitle">Filter</span>
+	<button class="filter-button" mat-flat-button (click)="openResursPicker()">
+		RESURSER
+		<span *ngIf="(mapService.mapFilter$ | async)?.resursPks!.length > 0">
+			({{ (mapService.mapFilter$ | async)?.resursPks!.length }})
+		</span>
+	</button>
+	<button class="filter-button" mat-flat-button (click)="openResurskategorierPicker()">
+		RESURSKATEGORIER
+		<span *ngIf="(mapService.mapFilter$ | async)?.resurskategoriPks!.length > 0">
+			({{ (mapService.mapFilter$ | async)?.resurskategoriPks!.length }})
+		</span>
+	</button>
+	<button class="filter-button" mat-flat-button (click)="openFordonskategorierPicker()">
+		FORDONSKATEGORIER
+		<span *ngIf="(mapService.mapFilter$ | async)?.fordonskategoriPks!.length > 0">
+			({{ (mapService.mapFilter$ | async)?.fordonskategoriPks!.length }})
+		</span>
+	</button>
+	<mat-checkbox [checked]="(mapService.mapFilter$ | async)?.showOnlyActive" color="primary" (change)="toggleShowOnlyActive()">
+		Visa endast aktiva
+	</mat-checkbox>
+</div>
+<mat-divider />
+<div class="actions">
+	<span class="subtitle">Åtgärder</span>
+	<button mat-flat-button [matMenuTriggerFor]="importExportMenu">
+		<mat-icon>arrow_drop_down</mat-icon>
+		<span>IMPORT / EXPORT</span>
+	</button>
+	<mat-menu #importExportMenu="matMenu" xPosition="before">
+		<input type="file" style="display: none;" #fileUpload (change)="handleFileSelected($event)">
+		<button mat-menu-item (click)="fileUpload.click()">Importera</button>
+		<button mat-menu-item (click)="mapService.exportMapFilter()">Exportera</button>
+	</mat-menu>
+	<button mat-flat-button (click)="mapService.resetMapFilter()">
+		<mat-icon>restart_alt</mat-icon>
+		<span>ÅTERSTÄLL</span>
+	</button>
+	<button *ngIf="false" mat-flat-button (click)="mapService.logGoogleMapValues()">
+		<mat-icon>edit_note</mat-icon>
+		<span>LOGGA</span>
+	</button>
+</div>
+<mat-divider />
+<div class="info">
+	<a class="link" mat-icon-button href="https://davidjohanssson.github.io/" target="_blank">
+		<mat-icon>home</mat-icon>
+	</a>
+	<a class="link" mat-icon-button href="https://github.com/davidjohanssson/material-color-palette-generator" target="_blank">
+		<svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv" focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="GitHubIcon">
+			<path d="M12 1.27a11 11 0 00-3.48 21.46c.55.09.73-.28.73-.55v-1.84c-3.03.64-3.67-1.46-3.67-1.46-.55-1.29-1.28-1.65-1.28-1.65-.92-.65.1-.65.1-.65 1.1 0 1.73 1.1 1.73 1.1.92 1.65 2.57 1.2 3.21.92a2 2 0 01.64-1.47c-2.47-.27-5.04-1.19-5.04-5.5 0-1.1.46-2.1 1.2-2.84a3.76 3.76 0 010-2.93s.91-.28 3.11 1.1c1.8-.49 3.7-.49 5.5 0 2.1-1.38 3.02-1.1 3.02-1.1a3.76 3.76 0 010 2.93c.83.74 1.2 1.74 1.2 2.94 0 4.21-2.57 5.13-5.04 5.4.45.37.82.92.82 2.02v3.03c0 .27.1.64.73.55A11 11 0 0012 1.27"></path>
+		</svg>
+	</a>
+</div>

@@ -1,0 +1,113 @@
+:host {
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	display: grid;
+	grid-template-rows: min-content 1fr min-content;
+	row-gap: 8px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header-title {
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.content {
+	display: grid;
+	overflow-y: auto;
+}
+
+.content-list-chip {
+	margin: 4px;
+}
+
+.content-table {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+.content-table-search ::ng-deep .mat-mdc-form-field-subscript-wrapper {
+	height: 0px;
+}
+
+.checkbox-header-cell {
+	flex: none;
+	padding-left: calc(24px + 40px);
+	padding-right: 24px;
+}
+
+.checkbox-cell {
+	flex: none;
+	padding-right: 24px;
+}
+
+.mat-column-action {
+	flex: 0 0 8%;
+}
+
+.row {
+	cursor: pointer;
+}
+
+.row-empty {
+	background-color: #f1f1f1;
+}
+
+::ng-deep label {
+	margin-bottom: unset;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.footer-clear__selected {
+	background-color: whitesmoke;
+}
+
+// XSmall
+@media only screen and (min-width: 0px) {
+	:host {
+		padding: 16px;
+	}
+
+	.content {
+		grid-template-columns: 1fr;
+		grid-template-rows: min-content 1fr;
+	}
+}
+
+// Small
+@media only screen and (min-width: 600px) {
+	:host {
+		padding: 32px;
+	}
+}
+
+// Medium
+@media only screen and (min-width: 960px) {
+	.content {
+		grid-template-columns: min-content 1fr;
+		grid-template-rows: 1fr;
+	}
+
+	.content-list {
+		height: 1px;
+		min-height: 100%;
+		overflow-y: auto;
+	}
+}
+
+// Large
+@media only screen and (min-width: 1440px) {}
+
+// XLarge
+@media only screen and (min-width: 1920px) {}

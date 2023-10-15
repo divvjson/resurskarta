@@ -1,0 +1,56 @@
+<ng-container *ngIf="latestMatvarde$ | async as latestMatvarde">
+	<ng-container *ngIf="latestPosition$ | async as position">
+		<ng-container *ngIf="markerOptions$ | async as options">
+			<map-marker #marker="mapMarker" [position]="position" [options]="options" (mapMouseover)="log()" (mapClick)="openInfoWindow(marker)" />
+			<map-info-window class="info-window" [hidden]="!isInfoWindowOpen" (closeclick)="handleInfoWindowClosed()">
+				<span class="info-window-title">{{ resurs.fkFordonNavigation?.regnr }}</span>
+				<div class="info-window-section">
+					<span>Senast uppdaterad:</span>
+					<span>{{ latestMatvarde.utc | date:'shortDate' }} {{ latestMatvarde.utc | date:'mediumTime' }}</span>
+					<span>Nuvarande order:</span>
+					<span class="info-window-section-row">
+						<a class="info-window-section-row-link" href="" target="_blank" (click)="handleOrderClicked($event)">2938961</a>
+						<mat-icon class="info-window-section-row-icon">open_in_new</mat-icon>
+					</span>
+					<span>Nuvarande adress:</span>
+					<span>{{ geocodingAddress }}</span>
+					<span style="margin-top: 8px;">Ägare:</span>
+					<span style="margin-top: 8px;">
+						<div *ngIf="resurs.fkFordonNavigation?.fkKunderNavigation?.kundNamn; else noInfo">
+							{{ resurs.fkFordonNavigation?.fkKunderNavigation?.kundNamn }}
+						</div>
+					</span>
+					<span>Fordon:</span>
+					<span>
+						<div *ngIf="resurs.fkFordonNavigation?.fabrikat && resurs.fkFordonNavigation?.beteckning && resurs.fkFordonNavigation?.arsmodell; else noInfo">
+							{{ resurs.fkFordonNavigation?.fabrikat }} {{ resurs.fkFordonNavigation?.beteckning }} {{ resurs.fkFordonNavigation?.arsmodell }}
+						</div>
+					</span>
+					<span>Chaufför:</span>
+					<span>
+						<div *ngIf="resurs.fkChaufforerNavigation?.chaufforNamn; else noInfo">
+							{{ resurs.fkChaufforerNavigation?.chaufforNamn }}
+						</div>
+					</span>
+					<span style="margin-top: 8px;">Resurskategori:</span>
+					<span style="margin-top: 8px;">
+						<div *ngIf="getResurskategori(); else noInfo">
+							{{ getResurskategori() }}
+						</div>
+					</span>
+					<span>Fordonskategori:</span>
+					<span>
+						<div *ngIf="getFordonskategori(); else noInfo">
+							{{ getFordonskategori() }}
+						</div>
+					</span>
+				</div>
+				<button class="info-window-section-detail__button" mat-flat-button [disabled]="true">DETALJER</button>
+			</map-info-window>
+		</ng-container>
+	</ng-container>
+</ng-container>
+
+<ng-template #noInfo>
+	<div style="font-style: italic;">Saknas information</div>
+</ng-template>

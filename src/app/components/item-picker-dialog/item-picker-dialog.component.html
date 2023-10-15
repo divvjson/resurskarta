@@ -1,0 +1,46 @@
+<div class="header">
+	<span class="header-title">
+		{{ input.title }}
+	</span>
+	<button mat-mini-fab color="primary" (click)="cancel()">
+		<mat-icon>close</mat-icon>
+	</button>
+</div>
+<div class="content" [style.gap]="selectedItems.length > 0 ? '8px' : '0px'">
+	<div class="content-list">
+		<mat-chip class="content-list-chip" *ngFor="let selectedItem of selectedItems">
+			<span>{{ getColumnValue(input.identityColumn, selectedItem) }}</span>
+			<button matChipRemove (click)="remove(selectedItem)">
+				<mat-icon>cancel</mat-icon>
+			</button>
+		</mat-chip>
+	</div>
+	<div class="content-table">
+		<mat-form-field class="content-table-search">
+			<mat-label>Sökfilter</mat-label>
+			<input type="text" matInput autocomplete="off" spellcheck="false" cdkFocusInitial [formControl]="searchFilterFormControl">
+		</mat-form-field>
+		<mat-table [dataSource]="items">
+			<ng-container *ngFor="let column of input.columns; let i = index" [matColumnDef]="column">
+				<mat-header-cell *matHeaderCellDef [class.checkbox-header-cell]="i === 0">{{ input.headers[i] }}</mat-header-cell>
+				<mat-cell *matCellDef="let item" [class.checkbox-cell]="i === 0">
+					<ng-container *ngIf="item">
+						<ng-container *ngIf="column !== 'checkbox'; else checkboxColumn">
+							{{ getColumnValue(column, item) }}
+						</ng-container>
+						<ng-template #checkboxColumn>
+							<mat-checkbox [checked]="isSelected(item)" [disabled]="isSearching"></mat-checkbox>
+						</ng-template>
+					</ng-container>
+				</mat-cell>
+			</ng-container>
+			<mat-header-row *matHeaderRowDef="input.columns"></mat-header-row>
+			<mat-row *matRowDef="let row; columns: input.columns; let i = index" [ngClass]="row ? 'row' : 'row-empty'" (click)="handleSelectionChanged(row)"></mat-row>
+		</mat-table>
+		<mat-paginator #paginator [length]="count" [pageSize]="take" showFirstLastButtons [disabled]="isSearching"></mat-paginator>
+	</div>
+</div>
+<div class="footer">
+	<button class="footer-clear__selected" mat-flat-button (click)="clearSelected()">RENSA VALDA</button>
+	<button mat-flat-button color="primary" (click)="ok()">VÄLJ</button>
+</div>

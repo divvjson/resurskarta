@@ -1,0 +1,24 @@
+:host {
+	display: flex;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 500;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	opacity: 0;
+	animation: fadeIn 0.5s forwards;
+
+	::ng-deep .mat-mdc-progress-spinner .mdc-circular-progress__indeterminate-circle-graphic {
+		stroke: white !important;
+	}
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,6897 @@
+[
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 259,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 260,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 261,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 261,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 262,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 263,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 264,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 265,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 126,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 266,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 267,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 267,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 267,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 267,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 268,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 268,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 268,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 268,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 269,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 270,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 271,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 272,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 273,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 274,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 275,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 276,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 276,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 276,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 276,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 277,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 278,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 278,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 279,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 281,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 282,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 283,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 284,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 285,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 286,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 286,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 286,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 287,
+    "fkFordonskategorier": 146,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 288,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 288,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 288,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 288,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 289,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 290,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 290,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 291,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 292,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 292,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 293,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 295,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 296,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 297,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 298,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 299,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 299,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 300,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 300,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 301,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 302,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 304,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 305,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 306,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 307,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 308,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 309,
+    "fkFordonskategorier": 211,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 309,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 310,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 311,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 312,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 313,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 314,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 315,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 316,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 317,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 318,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 319,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 320,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 321,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 322,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 322,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 322,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 322,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 322,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 323,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 324,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 324,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 325,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 326,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 326,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 326,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 326,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 327,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 327,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 327,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 328,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 328,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 329,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 330,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 331,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 168,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 332,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 333,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 334,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 335,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 336,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 337,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 338,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 339,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 340,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 341,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 342,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 343,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 343,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 343,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 344,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 345,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 345,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 346,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 347,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 348,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 349,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 349,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 350,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 350,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 350,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 351,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 352,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 353,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 354,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 354,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 354,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 356,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 357,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 357,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 358,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 359,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 360,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 360,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 360,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 361,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 361,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 361,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 363,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 364,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 365,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 366,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 367,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 368,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 368,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 368,
+    "fkFordonskategorier": 183,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 368,
+    "fkFordonskategorier": 184,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 368,
+    "fkFordonskategorier": 185,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 369,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 370,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 370,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 371,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 372,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 373,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 373,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 373,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 374,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 375,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 375,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 376,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 377,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 378,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 379,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 380,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 381,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 381,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 382,
+    "fkFordonskategorier": 139,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 382,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 383,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 384,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 385,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 386,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 386,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 387,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 388,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 389,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 390,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 391,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 392,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 392,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 393,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 394,
+    "fkFordonskategorier": 146,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 395,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 396,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 397,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 397,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 399,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 401,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 402,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 403,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 404,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 405,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 406,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 406,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 407,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 408,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 409,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 410,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 411,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 412,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 413,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 414,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 238,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 239,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 240,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 241,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 247,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 415,
+    "fkFordonskategorier": 248,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 416,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 416,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 417,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 417,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 417,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 417,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 418,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 419,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 420,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 420,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 421,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 422,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 423,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 424,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 425,
+    "fkFordonskategorier": 148,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 426,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 427,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 428,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 428,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 428,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 429,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 429,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 429,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 429,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 430,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 430,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 430,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 430,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 431,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 432,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 433,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 434,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 435,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 436,
+    "fkFordonskategorier": 261,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 437,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 437,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 438,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 439,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 440,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 441,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 442,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 442,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 444,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 445,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 446,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 446,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 447,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 448,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 449,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 450,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 451,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 452,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 452,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 453,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 454,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 455,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 455,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 455,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 456,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 456,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 457,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 457,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 458,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 458,
+    "fkFordonskategorier": 181,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 459,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 193,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 211,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 212,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 460,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 461,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 462,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 462,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 462,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 463,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 464,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 465,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 466,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 467,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 468,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 469,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 470,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 471,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 472,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 473,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 474,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 475,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 476,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 477,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 478,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 479,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 480,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 481,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 482,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 482,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 482,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 482,
+    "fkFordonskategorier": 213,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 483,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 484,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 485,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 486,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 487,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 488,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 488,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 489,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 490,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 491,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 492,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 493,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 494,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 495,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 496,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 497,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 498,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 499,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 500,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 501,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 501,
+    "fkFordonskategorier": 190,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 501,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 502,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 503,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 504,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 505,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 505,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 506,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 507,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 508,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 509,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 510,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 511,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 512,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 513,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 514,
+    "fkFordonskategorier": 146,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 515,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 516,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 517,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 517,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 518,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 518,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 518,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 519,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 519,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 519,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 520,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 521,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 521,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 521,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 522,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 523,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 524,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 525,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 526,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 526,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 527,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 527,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 527,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 528,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 529,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 529,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 529,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 529,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 530,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 530,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 531,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 532,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 533,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 534,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 535,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 536,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 537,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 538,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 539,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 543,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 544,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 544,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 545,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 546,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 547,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 548,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 549,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 550,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 551,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 552,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 552,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 552,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 552,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 552,
+    "fkFordonskategorier": 190,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 553,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 554,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 554,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 555,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 555,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 555,
+    "fkFordonskategorier": 190,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 555,
+    "fkFordonskategorier": 216,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 556,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 557,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 557,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 558,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 558,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 559,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 559,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 560,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 561,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 562,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 562,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 563,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 563,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 564,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 565,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 566,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 567,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 568,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 568,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 568,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 568,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 569,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 570,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 570,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 570,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 571,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 572,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 574,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 574,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 575,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 576,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 577,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 577,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 577,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 578,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 579,
+    "fkFordonskategorier": 141,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 580,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 581,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 581,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 582,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 582,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 583,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 584,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 585,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 585,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 586,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 587,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 588,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 589,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 590,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 591,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 592,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 592,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 593,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 593,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 593,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 593,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 594,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 595,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 596,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 597,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 597,
+    "fkFordonskategorier": 249,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 597,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 598,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 598,
+    "fkFordonskategorier": 171,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 599,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 599,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 600,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 601,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 602,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 603,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 604,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 605,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 606,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 607,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 607,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 608,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 609,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 610,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 611,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 612,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 613,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 614,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 615,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 615,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 616,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 617,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 618,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 619,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 620,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 621,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 622,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 623,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 623,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 623,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 623,
+    "fkFordonskategorier": 219,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 624,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 624,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 625,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 626,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 627,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 628,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 629,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 629,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 629,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 630,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 631,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 631,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 631,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 632,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 632,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 632,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 633,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 634,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 634,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 635,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 636,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 637,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 638,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 638,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 639,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 640,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 640,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 640,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 641,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 642,
+    "fkFordonskategorier": 139,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 643,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 644,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 645,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 646,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 647,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 648,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 649,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 650,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 651,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 652,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 653,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 654,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 655,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 656,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 657,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 657,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 657,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 657,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 657,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 658,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 659,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 660,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 661,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 662,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 663,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 664,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 191,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 192,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 665,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 666,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 667,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 203,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 204,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 213,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 214,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 235,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 236,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 237,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 668,
+    "fkFordonskategorier": 254,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 669,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 670,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 671,
+    "fkFordonskategorier": 235,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 672,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 204,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 673,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 674,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 675,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 676,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 676,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 677,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 677,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 678,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 678,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 678,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 679,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 203,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 204,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 205,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 206,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 680,
+    "fkFordonskategorier": 254,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 681,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 681,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 682,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 683,
+    "fkFordonskategorier": 139,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 683,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 684,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 685,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 686,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 687,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 687,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 687,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 687,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 688,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 688,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 688,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 688,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 689,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 689,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 690,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 690,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 691,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 692,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 692,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 693,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 693,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 693,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 694,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 694,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 695,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 696,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 697,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 698,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 699,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 700,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 701,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 702,
+    "fkFordonskategorier": 139,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 702,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 703,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 704,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 705,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 706,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 707,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 708,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 709,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 710,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 711,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 712,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 713,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 714,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 715,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 716,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 717,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 718,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 719,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 720,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 722,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 723,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 724,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 725,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 726,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 727,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 728,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 729,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 730,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 731,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 732,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 733,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 734,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 735,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 736,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 737,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 738,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 739,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 740,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 741,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 742,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 743,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 744,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 745,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 746,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 747,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 748,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 749,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 750,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 751,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 752,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 753,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 754,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 755,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 756,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 757,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 758,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 759,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 760,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 764,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 765,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 768,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 769,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 770,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 771,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 772,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 773,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 775,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 776,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 777,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 778,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 779,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 780,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 781,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 782,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 783,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 785,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 786,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 787,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 126,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 128,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 129,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 209,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 210,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 211,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 212,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 213,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 214,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 245,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 788,
+    "fkFordonskategorier": 246,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 789,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 790,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 791,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 792,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 793,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 796,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 798,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 799,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 801,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 803,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 804,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 805,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 806,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 807,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 808,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 809,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 810,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 811,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 812,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 813,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 814,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 815,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 816,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 824,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 827,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 828,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 830,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 831,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 832,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 834,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 835,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 837,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 838,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 839,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 840,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 841,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 842,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 843,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 844,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 845,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 846,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 847,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 848,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 849,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 850,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 851,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 852,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 853,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 854,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 855,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 856,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 857,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 859,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 860,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 861,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 862,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 863,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 864,
+    "fkFordonskategorier": 167,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 865,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 866,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 867,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 868,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 869,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 870,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 871,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 872,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 873,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 874,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 875,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 876,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 877,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 878,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 879,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 880,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 881,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 882,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 883,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 884,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 885,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 886,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 887,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 888,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 889,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 890,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 891,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 892,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 893,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 894,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 895,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 896,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 897,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 898,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 899,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 900,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 901,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 902,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 903,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 904,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 905,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 906,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 907,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 908,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 909,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 910,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 911,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 912,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 913,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 914,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 915,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 916,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 917,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 918,
+    "fkFordonskategorier": 163,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 919,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 920,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 921,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 922,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 923,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 924,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 925,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 926,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 927,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 928,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 929,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 930,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 931,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 932,
+    "fkFordonskategorier": 154,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 933,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 934,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 935,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 936,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 937,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 938,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 939,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 940,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 941,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 942,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 943,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 944,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 945,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 946,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 947,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 948,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 949,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 950,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 951,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 952,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 953,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 954,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 955,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 956,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 957,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 958,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 959,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 960,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 961,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 962,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 963,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 964,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 965,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 966,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 967,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 968,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 969,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 970,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 971,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 972,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 973,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 974,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 975,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 976,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 977,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 978,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 979,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 980,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 981,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 982,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 983,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 984,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 985,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 986,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 987,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 988,
+    "fkFordonskategorier": 156,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 989,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 990,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 991,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 992,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 993,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 994,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 995,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 996,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 997,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 998,
+    "fkFordonskategorier": 155,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 999,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1000,
+    "fkFordonskategorier": 161,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1001,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1002,
+    "fkFordonskategorier": 160,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1003,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1004,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1005,
+    "fkFordonskategorier": 162,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1007,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1009,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1010,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1011,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1013,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1014,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1016,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1018,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1021,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1022,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1023,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1025,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1026,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1027,
+    "fkFordonskategorier": 174,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1028,
+    "fkFordonskategorier": 176,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1030,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1031,
+    "fkFordonskategorier": 175,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1033,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1035,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1037,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1041,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1041,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1043,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1045,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1045,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1046,
+    "fkFordonskategorier": 257,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1047,
+    "fkFordonskategorier": 257,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1048,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1050,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1051,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1052,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1052,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1053,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1056,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1058,
+    "fkFordonskategorier": 169,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1059,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1059,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1061,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1061,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1062,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1063,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1063,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1063,
+    "fkFordonskategorier": 166,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1063,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1065,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1066,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1067,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1068,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1069,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1070,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 193,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 211,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 212,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 214,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 216,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 233,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 234,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 235,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 236,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 249,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 251,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1075,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1076,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1076,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1076,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1077,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1077,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1077,
+    "fkFordonskategorier": 260,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1078,
+    "fkFordonskategorier": 146,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1078,
+    "fkFordonskategorier": 186,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1079,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1079,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1079,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1081,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1082,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1083,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1083,
+    "fkFordonskategorier": 190,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1083,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1084,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1084,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1084,
+    "fkFordonskategorier": 233,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1085,
+    "fkFordonskategorier": 164,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1085,
+    "fkFordonskategorier": 165,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1086,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1087,
+    "fkFordonskategorier": 172,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1088,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1090,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1096,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1097,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1098,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1099,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1099,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1100,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1100,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1101,
+    "fkFordonskategorier": 190,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1102,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1102,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1104,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1106,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1106,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1107,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1108,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1112,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1115,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1116,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1118,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1119,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1119,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1120,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1121,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1121,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 194,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 199,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 200,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 203,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 205,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 206,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 254,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1122,
+    "fkFordonskategorier": 273,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 130,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 136,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 137,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 138,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 140,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 195,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 196,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 197,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 198,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 201,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 202,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1123,
+    "fkFordonskategorier": 204,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1124,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1124,
+    "fkFordonskategorier": 261,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1125,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1126,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1126,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1127,
+    "fkFordonskategorier": 173,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1128,
+    "fkFordonskategorier": 139,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1128,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1129,
+    "fkFordonskategorier": 157,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1130,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1131,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1132,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1134,
+    "fkFordonskategorier": 178,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1134,
+    "fkFordonskategorier": 207,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1135,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1135,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1136,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1137,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1138,
+    "fkFordonskategorier": 170,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1139,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1139,
+    "fkFordonskategorier": 153,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1139,
+    "fkFordonskategorier": 261,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1140,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1141,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1141,
+    "fkFordonskategorier": 267,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1142,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1143,
+    "fkFordonskategorier": 142,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1144,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1144,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1145,
+    "fkFordonskategorier": 151,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1146,
+    "fkFordonskategorier": 158,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1146,
+    "fkFordonskategorier": 189,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1147,
+    "fkFordonskategorier": 145,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1148,
+    "fkFordonskategorier": 159,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1148,
+    "fkFordonskategorier": 187,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1149,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1150,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1151,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1152,
+    "fkFordonskategorier": 188,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1153,
+    "fkFordonskategorier": 143,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1153,
+    "fkFordonskategorier": 144,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1157,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1157,
+    "fkFordonskategorier": 152,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1158,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1159,
+    "fkFordonskategorier": 235,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1160,
+    "fkFordonskategorier": 150,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1160,
+    "fkFordonskategorier": 261,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1161,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1161,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1162,
+    "fkFordonskategorier": 208,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 131,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 132,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 133,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 134,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 135,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1163,
+    "fkFordonskategorier": 253,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1164,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1164,
+    "fkFordonskategorier": 147,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1164,
+    "fkFordonskategorier": 261,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1165,
+    "fkFordonskategorier": 177,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1166,
+    "fkFordonskategorier": 149,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1167,
+    "fkFordonskategorier": 279,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1168,
+    "fkFordonskategorier": 280,
+    "type": "FordonFordonskategorier"
+  },
+  {
+    "fkFordon": 1170,
+    "fkFordonskategorier": 127,
+    "type": "FordonFordonskategorier"
+  }
+]

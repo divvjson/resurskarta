@@ -1,0 +1,16 @@
+<mat-drawer-container [hasBackdrop]="(breakpointService.xsmall$ | async) || (breakpointService.small$ | async)">
+	<mat-drawer class="mat-elevation-z4" position="end" mode="over" [opened]="(breakpointService.xsmall$ | async) || (breakpointService.small$ | async) ? false : true">
+		<app-map-menu />
+	</mat-drawer>
+	<mat-drawer-content>
+		<app-clock />
+		<button class="map-fab" mat-mini-fab color="accent" (click)="mapService.openDrawer()">
+			<mat-icon>menu_open</mat-icon>
+		</button>
+		<div class="google-map-container" *ngIf="mapApiLoaded$ | async">
+			<google-map [options]="mapOptions" [center]="mapCenter" (mapInitialized)="handleMapInitialized($event)" (tilesloaded)="handleTilesLoaded()">
+				<app-map-resurs *ngFor="let resurs of resurser" [resurs]="resurs" />
+			</google-map>
+		</div>
+	</mat-drawer-content>
+</mat-drawer-container>

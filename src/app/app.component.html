@@ -1,0 +1,3 @@
+<app-progress-spinner *ngIf="progressSpinnerService.showProgressSpinner$ | async" />
+<app-spinner *ngIf="spinnerService.showSpinner$ | async" />
+<router-outlet />

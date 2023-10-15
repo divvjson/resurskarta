@@ -1,0 +1,4 @@
+<div class="clock-text">
+	{{ (simulationService.currentDateTime$ | async) | date:'shortDate' }}
+	{{ (simulationService.currentDateTime$ | async) | date:'mediumTime' }}
+</div>

@@ -1,0 +1,38 @@
+.info-window {
+	white-space: nowrap;
+}
+
+.info-window-title {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.info-window-section {
+	margin-top: 8px;
+	display: grid;
+  grid-template-columns: max-content 1fr;
+	column-gap: 4px;
+	row-gap: 2px;
+}
+
+.info-window-section-row {
+	display: flex;
+	align-items: center;
+}
+
+.info-window-section-row-link:focus-visible {
+	outline: none !important;
+}
+
+.info-window-section-row-icon {
+	margin-left: 2px;
+	height: 13px;
+	font-size: 13px;
+	color: #434343DE;
+}
+
+.info-window-section-detail__button {
+	margin-top: 8px;
+	width: 100%;
+	background-color: whitesmoke;
+}

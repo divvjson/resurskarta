@@ -1,0 +1,48 @@
+:host {
+	flex-grow: 1;
+	display: flex;
+	position: relative;
+}
+
+mat-drawer-container {
+	flex-grow: 1;
+	display: flex;
+}
+
+mat-drawer {
+	width: 256px;
+	opacity: 0.95;
+}
+
+:host ::ng-deep .mat-drawer-inner-container {
+	display: flex;
+}
+
+mat-drawer-content {
+	flex-grow: 1;
+	display: flex;
+}
+
+.google-map-container {
+	flex-grow: 1;
+	display: flex;
+}
+
+.google-map-container ::ng-deep google-map {
+	flex-grow: 1;
+	display: flex;
+}
+
+.google-map-container ::ng-deep google-map > .map-container {
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.map-fab {
+	position: absolute;
+	top: 8px;
+	left: calc(100% - (40px + 8px));
+	right: 0px;
+	bottom: 0px;
+	z-index: 500;
+}

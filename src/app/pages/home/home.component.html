@@ -1,0 +1,7 @@
+<button *ngIf="(dataService.downloadProgress$ | async)?.status === null" mat-raised-button color="primary" (click)="load()">
+	LADDA DATA
+</button>
+
+<button *ngIf="(dataService.downloadProgress$ | async)?.status === 'completed'" mat-raised-button color="primary" (click)="start()">
+	STARTA SIMULERING
+</button>

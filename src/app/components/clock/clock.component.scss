@@ -1,0 +1,15 @@
+:host {
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	z-index: 300;
+	box-sizing: border-box;
+	padding: 8px;
+	border-radius: 4px;
+	background: rgba(255, 255, 255, 0.7);
+	backdrop-filter: blur(10px);
+}
+
+.clock-text {
+	font-weight: 500;
+}
