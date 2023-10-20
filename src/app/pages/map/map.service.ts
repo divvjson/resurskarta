@@ -1,7 +1,7 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable, inject } from "@angular/core";
 import { MatDrawer } from "@angular/material/sidenav";
-import { BehaviorSubject, Observable, Subject, lastValueFrom, map } from "rxjs";
+import { BehaviorSubject, Observable, Subject, map } from "rxjs";
 import { Matvarde } from "src/app/entities/Matvarde";
 import { Resurser } from "src/app/entities/Resurser";
 import { MapFilter } from "src/app/interfaces/map-filter";
@@ -130,45 +130,24 @@ export class MapService {
 		}
 
 		const latLng = { lat, lng };
-		console.log(this.googleGeocoder);
 		const geocoderResponse = await this.googleGeocoder?.geocode({ 'location': latLng });
-		console.log(geocoderResponse);
 		const address = geocoderResponse?.results?.at(0)?.formatted_address;
+
 		if (typeof (address) !== 'string') throw new Error('Unable to parse out address string');
+		
 		this.addressCache[cacheKey] = address;
+
 		return address;
-
-
-		// const cacheKey = `${lat},${lng}`;
-		// // If the address exists in the cache, return it immediately.
-		// if (this.addressCache[cacheKey]) {
-		//   return this.addressCache[cacheKey];
-		// }
-
-		// const baseUrl = 'https://maps.googleapis.com/maps/api/geocode/json';
-		// const url = `${baseUrl}?latlng=${lat},${lng}&key=${this.GEOCODING_API_KEY}`;
-
-		// try {
-		// 	const response = await lastValueFrom<any>(this.http.get(url));
-		// 	console.log(response);
-		// 	const address = response?.results?.at(0)?.formatted_address;
-		// 	if (typeof(address) !== 'string') throw new Error('Unable to parse out address string');
-		// 	this.addressCache[cacheKey] = address;
-		// 	return address;
-		// } catch (error) {
-		// 	console.error('Error fetching geocoding data:', error);
-		// 	return null;
-		// }
 	}
 
 	public logGoogleMapValues() {
-		// if (!this.googleMap) return;
-		// const lat = this.googleMap.getCenter()?.lat();
-		// const lng = this.googleMap.getCenter()?.lng();
-		// console.log({
-		// 	zoom: this.googleMap.getZoom(),
-		// 	lat: lat,
-		// 	lng: lng,
-		// });
+		if (!this.googleMap) return;
+		const lat = this.googleMap.getCenter()?.lat();
+		const lng = this.googleMap.getCenter()?.lng();
+		console.log({
+			zoom: this.googleMap.getZoom(),
+			lat: lat,
+			lng: lng,
+		});
 	}
 }
