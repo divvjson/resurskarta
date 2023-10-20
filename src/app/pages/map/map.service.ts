@@ -133,6 +133,7 @@ export class MapService {
 
 		try {
 			const response = await lastValueFrom<any>(this.http.get(url));
+			console.log(response);
 			const address = response?.results?.at(0)?.formatted_address;
 			if (typeof(address) !== 'string') throw new Error('Unable to parse out address string');
 			this.addressCache[cacheKey] = address;
