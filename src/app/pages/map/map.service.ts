@@ -18,11 +18,12 @@ export class MapService {
 	};
 
 	public googleMap: google.maps.Map | undefined;
+	public googleGeocoder: google.maps.Geocoder | undefined;
 	public drawer!: MatDrawer;
 	public MAPS_API_KEY = 'AIzaSyBQQFJrFk4_rPGKGsKFXz5DtaQ-5WpW9E0' as const;
 	public GEOCODING_API_KEY = 'AIzaSyAhV4_36GYtshMv3HKXKyLNju8gho1B2Ek' as const;
 	// Cache object to store previous geocoding responses as strings
-  private addressCache: { [key: string]: string } = {};
+	private addressCache: { [key: string]: string } = {};
 
 	private _mapFilter$ = new BehaviorSubject<MapFilter>({ ...this.mapFilterDefault });
 	public get mapFilter$(): Observable<MapFilter> {
@@ -122,36 +123,52 @@ export class MapService {
 	}
 
 	public async getAddress(lat: number, lng: number) {
-		const cacheKey = `${lat},${lng}`;
 		// If the address exists in the cache, return it immediately.
-    if (this.addressCache[cacheKey]) {
-      return this.addressCache[cacheKey];
-    }
-
-		const baseUrl = 'https://maps.googleapis.com/maps/api/geocode/json';
-		const url = `${baseUrl}?latlng=${lat},${lng}&key=${this.GEOCODING_API_KEY}`;
-
-		try {
-			const response = await lastValueFrom<any>(this.http.get(url));
-			console.log(response);
-			const address = response?.results?.at(0)?.formatted_address;
-			if (typeof(address) !== 'string') throw new Error('Unable to parse out address string');
-			this.addressCache[cacheKey] = address;
-			return address;
-		} catch (error) {
-			console.error('Error fetching geocoding data:', error);
-			return null;
+		const cacheKey = `${lat},${lng}`;
+		if (this.addressCache[cacheKey]) {
+			return this.addressCache[cacheKey];
 		}
+
+		const latLng = { lat, lng };
+		console.log(this.googleGeocoder);
+		const geocoderResponse = await this.googleGeocoder?.geocode({ 'location': latLng });
+		console.log(geocoderResponse);
+		const address = geocoderResponse?.results?.at(0)?.formatted_address;
+		if (typeof (address) !== 'string') throw new Error('Unable to parse out address string');
+		this.addressCache[cacheKey] = address;
+		return address;
+
+
+		// const cacheKey = `${lat},${lng}`;
+		// // If the address exists in the cache, return it immediately.
+		// if (this.addressCache[cacheKey]) {
+		//   return this.addressCache[cacheKey];
+		// }
+
+		// const baseUrl = 'https://maps.googleapis.com/maps/api/geocode/json';
+		// const url = `${baseUrl}?latlng=${lat},${lng}&key=${this.GEOCODING_API_KEY}`;
+
+		// try {
+		// 	const response = await lastValueFrom<any>(this.http.get(url));
+		// 	console.log(response);
+		// 	const address = response?.results?.at(0)?.formatted_address;
+		// 	if (typeof(address) !== 'string') throw new Error('Unable to parse out address string');
+		// 	this.addressCache[cacheKey] = address;
+		// 	return address;
+		// } catch (error) {
+		// 	console.error('Error fetching geocoding data:', error);
+		// 	return null;
+		// }
 	}
 
 	public logGoogleMapValues() {
-		if (!this.googleMap) return;
-		const lat = this.googleMap.getCenter()?.lat();
-		const lng = this.googleMap.getCenter()?.lng();
-		console.log({
-			zoom: this.googleMap.getZoom(),
-			lat: lat,
-			lng: lng,
-		});
+		// if (!this.googleMap) return;
+		// const lat = this.googleMap.getCenter()?.lat();
+		// const lng = this.googleMap.getCenter()?.lng();
+		// console.log({
+		// 	zoom: this.googleMap.getZoom(),
+		// 	lat: lat,
+		// 	lng: lng,
+		// });
 	}
 }

@@ -113,6 +113,7 @@ export class MapComponent implements OnInit, AfterViewInit {
 
 	public handleMapInitialized(googleMap: google.maps.Map) {
 		this.mapService.googleMap = googleMap;
+		this.mapService.googleGeocoder = new google.maps.Geocoder();
 	}
 
 	public handleTilesLoaded() {
