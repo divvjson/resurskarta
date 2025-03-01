@@ -59,8 +59,6 @@ export class MapComponent implements OnInit, AfterViewInit {
 	};
 	private readonly ANIMATION_DURATION = 1000;
 
-
-	public mapApiLoaded$ = new BehaviorSubject(false);
 	public mapCenter = { ...this.INITIAL_MAP_POSITION.center };
 	public mapOptions = { ...this.MAP_OPTIONS };
 	private tilesLoaded$ = new BehaviorSubject(false);
@@ -73,7 +71,6 @@ export class MapComponent implements OnInit, AfterViewInit {
 		this.spinnerService.showSpinner$.next(true);
 		this.handleAllLoaded();
 		this.handleFocusedResursChanged();
-		this.initMapApi();
 		this.dataService.load();
 		this.simulationService.start();
 	}
@@ -84,31 +81,19 @@ export class MapComponent implements OnInit, AfterViewInit {
 
 	private handleAllLoaded() {
 		combineLatest([
-			this.mapApiLoaded$,
 			this.tilesLoaded$,
 			this.dataService.downloadProgress$,
 			this.dataService.resurser$,
 		])
 			.pipe(untilDestroyed(this))
-			.subscribe(([mapApiLoaded, tilesLoaded, downloadProgress, resurser]) => {
-				this.allLoaded = mapApiLoaded && tilesLoaded && downloadProgress.status === 'completed' && resurser.length > 0;
+			.subscribe(([tilesLoaded, downloadProgress, resurser]) => {
+				this.allLoaded = tilesLoaded && downloadProgress.status === 'completed' && resurser.length > 0;
 				if (this.allLoaded) {
 					this.resurser = resurser;
 					this.spinnerService.showSpinner$.next(false);
 					this.cdr.markForCheck();
 				}
 			});
-	}
-
-	private initMapApi() {
-		if (window.google) {
-			this.mapApiLoaded$.next(true);
-			return; // Already loaded
-		}
-
-		this.http
-			.jsonp(`https://maps.googleapis.com/maps/api/js?key=${this.mapService.MAPS_API_KEY}`, 'callback')
-			.subscribe(() => this.mapApiLoaded$.next(true));
 	}
 
 	public handleMapInitialized(googleMap: google.maps.Map) {

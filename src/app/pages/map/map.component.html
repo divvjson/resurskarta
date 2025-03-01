@@ -7,7 +7,7 @@
 		<button class="map-fab" mat-mini-fab color="accent" (click)="mapService.openDrawer()">
 			<mat-icon>menu_open</mat-icon>
 		</button>
-		<div class="google-map-container" *ngIf="mapApiLoaded$ | async">
+		<div class="google-map-container">
 			<google-map [options]="mapOptions" [center]="mapCenter" (mapInitialized)="handleMapInitialized($event)" (tilesloaded)="handleTilesLoaded()">
 				<app-map-resurs *ngFor="let resurs of resurser" [resurs]="resurs" />
 			</google-map>
