@@ -20,7 +20,6 @@ export class MapService {
 	public googleMap: google.maps.Map | undefined;
 	public googleGeocoder: google.maps.Geocoder | undefined;
 	public drawer!: MatDrawer;
-	public MAPS_API_KEY = 'AIzaSyBQQFJrFk4_rPGKGsKFXz5DtaQ-5WpW9E0' as const;
 	public GEOCODING_API_KEY = 'AIzaSyAhV4_36GYtshMv3HKXKyLNju8gho1B2Ek' as const;
 	// Cache object to store previous geocoding responses as strings
 	private addressCache: { [key: string]: string } = {};
