@@ -1,0 +1,777 @@
+[
+  {
+    "pk": 126,
+    "fordonskategoriNamn": "3-axl 10,1-13 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 127,
+    "fordonskategoriNamn": "4-axl  13,1-18 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 128,
+    "fordonskategoriNamn": "2-axl  3,1-10 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 129,
+    "fordonskategoriNamn": "2-axl 10,1-13 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 130,
+    "fordonskategoriNamn": "2-axl 13,1-18 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 131,
+    "fordonskategoriNamn": "3-axl 13,1-18 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 132,
+    "fordonskategoriNamn": "4-axl  18,1-25 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 133,
+    "fordonskategoriNamn": "3-axl 18,1-25 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 134,
+    "fordonskategoriNamn": "3-axl 25,1-35 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 135,
+    "fordonskategoriNamn": "4-axl  25,1-35 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 136,
+    "fordonskategoriNamn": "3-axl 35,1-50 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 137,
+    "fordonskategoriNamn": "4-axl  35,1-50 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 138,
+    "fordonskategoriNamn": "4-axl  50,1-69 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 139,
+    "fordonskategoriNamn": "2-axl  0-3 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 140,
+    "fordonskategoriNamn": "4-axl  69,1-100 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 141,
+    "fordonskategoriNamn": "4-axl 130,1-160 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 142,
+    "fordonskategoriNamn": "2-axl Lift",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 143,
+    "fordonskategoriNamn": "2-axl Frys",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 144,
+    "fordonskategoriNamn": "2-axl Kyl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 145,
+    "fordonskategoriNamn": "3-axl Lift",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 146,
+    "fordonskategoriNamn": "3-axl Frys",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 147,
+    "fordonskategoriNamn": "4-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 148,
+    "fordonskategoriNamn": "Dumper",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 149,
+    "fordonskategoriNamn": "Hjullastare 13-17 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 150,
+    "fordonskategoriNamn": "Lastv\u00E4xlare m Sl\u00E4p",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 151,
+    "fordonskategoriNamn": "Budbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 152,
+    "fordonskategoriNamn": "Kranbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 153,
+    "fordonskategoriNamn": "Lastv\u00E4xlare",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 154,
+    "fordonskategoriNamn": "Bulkbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 155,
+    "fordonskategoriNamn": "Tippbil m Gigg",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 156,
+    "fordonskategoriNamn": "Tippbil m Sl\u00E4p",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 157,
+    "fordonskategoriNamn": "Specialbil Maskin",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 158,
+    "fordonskategoriNamn": "Distributionsbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 159,
+    "fordonskategoriNamn": "Dragbil m Trailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 160,
+    "fordonskategoriNamn": "Dragbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 161,
+    "fordonskategoriNamn": "Volymekipage",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 162,
+    "fordonskategoriNamn": "\u00D6vriga",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 163,
+    "fordonskategoriNamn": "Specialbil Betong",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 164,
+    "fordonskategoriNamn": "Flakbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 165,
+    "fordonskategoriNamn": "Jordbruksbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 166,
+    "fordonskategoriNamn": "Anl\u00E4ggningsmaskin",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 167,
+    "fordonskategoriNamn": "Fj\u00E4rrekipage",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 168,
+    "fordonskategoriNamn": "3\u002B2-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 169,
+    "fordonskategoriNamn": "3\u002B3-axl 30 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 170,
+    "fordonskategoriNamn": "4\u002B3-axl 35 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 171,
+    "fordonskategoriNamn": "4\u002B3-axl 37 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 172,
+    "fordonskategoriNamn": "3-axl 13,5 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 173,
+    "fordonskategoriNamn": "4-axl 17,5 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 174,
+    "fordonskategoriNamn": "Specialbil m bygeltrailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 175,
+    "fordonskategoriNamn": "Specialbil m raktrailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 176,
+    "fordonskategoriNamn": "Specialbil m jumbotrailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 177,
+    "fordonskategoriNamn": "4\u002B3-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 178,
+    "fordonskategoriNamn": "3\u002B3-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 179,
+    "fordonskategoriNamn": "4\u002B2-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 180,
+    "fordonskategoriNamn": "4-axl 100,1-130 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 181,
+    "fordonskategoriNamn": "Tipptrailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 182,
+    "fordonskategoriNamn": "2-axl  0,1-10,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 183,
+    "fordonskategoriNamn": "Budbil Lift",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 184,
+    "fordonskategoriNamn": "Budbil Lift,Kyl/frys",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 185,
+    "fordonskategoriNamn": "Budbil Kyl/Frys",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 186,
+    "fordonskategoriNamn": "3-axl Kyl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 187,
+    "fordonskategoriNamn": "Citytrailer",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 188,
+    "fordonskategoriNamn": "3-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 189,
+    "fordonskategoriNamn": "2-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 190,
+    "fordonskategoriNamn": "3\u002B4-axl",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 191,
+    "fordonskategoriNamn": "2-axl 10,1-13,9 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 192,
+    "fordonskategoriNamn": "2-axl 14,0-16,9 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 193,
+    "fordonskategoriNamn": "3-axl  0,1-12,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 194,
+    "fordonskategoriNamn": "3-axl 12,1-17,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 195,
+    "fordonskategoriNamn": "3-axl 17,1-20,9 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 196,
+    "fordonskategoriNamn": "3-axl 21,0-24,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 197,
+    "fordonskategoriNamn": "3-axl 24,1-29,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 198,
+    "fordonskategoriNamn": "3-axl 29,1-35,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 199,
+    "fordonskategoriNamn": "4-axl  24,1-29,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 200,
+    "fordonskategoriNamn": "4-axl  29,1-44,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 201,
+    "fordonskategoriNamn": "4-axl  44,1-55,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 202,
+    "fordonskategoriNamn": "4-axl  55,1-70,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 203,
+    "fordonskategoriNamn": "4-axl  70,1-85,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 204,
+    "fordonskategoriNamn": "4-axl  85,1-100,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 205,
+    "fordonskategoriNamn": "4-axl 100,1-110,0 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 206,
+    "fordonskategoriNamn": "4-axl \u003E110,1 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 207,
+    "fordonskategoriNamn": "Liftdumper",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 208,
+    "fordonskategoriNamn": "2-axl  3-10 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 209,
+    "fordonskategoriNamn": "2-axl 10,1-14 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 210,
+    "fordonskategoriNamn": "2-axl 14,1-20 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 211,
+    "fordonskategoriNamn": "3-axl 10,1-14 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 212,
+    "fordonskategoriNamn": "3-axl 14,1-20 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 213,
+    "fordonskategoriNamn": "3-axl 35,1-46 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 214,
+    "fordonskategoriNamn": "4-axl  35,1-46 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 215,
+    "fordonskategoriNamn": "2-axl Kranbil m Skopa 11 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 216,
+    "fordonskategoriNamn": "3-axl Kranbil m Skopa 13 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 217,
+    "fordonskategoriNamn": "4-axl Kranbil m Skopa 20 tm isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 218,
+    "fordonskategoriNamn": "6-axl rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 219,
+    "fordonskategoriNamn": "4-axl Lvx Kranbil 20 tm kran/sprider isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 220,
+    "fordonskategoriNamn": "3-axl Lvx -13 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 221,
+    "fordonskategoriNamn": "4-axl Lvx -17 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 222,
+    "fordonskategoriNamn": "4-axl Lvx m recodrive exkl sprider",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 223,
+    "fordonskategoriNamn": "3-axl Lvx Recodrive inkl sprider",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 224,
+    "fordonskategoriNamn": "2-3-axl Lvx sl\u00E4p sprider",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 225,
+    "fordonskategoriNamn": "3\u002B3-axl Tipptrailer -30 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 226,
+    "fordonskategoriNamn": "3\u002B3-axl Tipptrailer -34 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 227,
+    "fordonskategoriNamn": "3\u002B3-axl Lvx -32 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 228,
+    "fordonskategoriNamn": "4\u002B3-axl Lvx -35 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 229,
+    "fordonskategoriNamn": "4\u002B3-axl Lvx -37 t rundbottn isol flak",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 230,
+    "fordonskategoriNamn": "4\u002B3-axl Lvx -35 t rundbottn isol flak LAGBIL",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 231,
+    "fordonskategoriNamn": "4\u002B3-axl Lvx -37 t rundbottn isol flak LAGBIL",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 232,
+    "fordonskategoriNamn": "2-axl  9-13 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 233,
+    "fordonskategoriNamn": "3-axl 13-21 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 234,
+    "fordonskategoriNamn": "3-axl 21-23 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 235,
+    "fordonskategoriNamn": "4-axl  25-32 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 236,
+    "fordonskategoriNamn": "4-axl  32-42 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 237,
+    "fordonskategoriNamn": "4-axl  44-80 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 238,
+    "fordonskategoriNamn": "0-25 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 239,
+    "fordonskategoriNamn": "26-30 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 240,
+    "fordonskategoriNamn": "31-35 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 241,
+    "fordonskategoriNamn": "36-40 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 242,
+    "fordonskategoriNamn": "8-12 m l\u00E5gbord",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 243,
+    "fordonskategoriNamn": "\u003E12 m l\u00E5gbord",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 244,
+    "fordonskategoriNamn": "\u003E4,0 m godsh\u00F6jd",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 245,
+    "fordonskategoriNamn": "4-axl  75 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 246,
+    "fordonskategoriNamn": "4-axl  90 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 247,
+    "fordonskategoriNamn": "0-10 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 248,
+    "fordonskategoriNamn": "10-34 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 249,
+    "fordonskategoriNamn": "1 - 12 m r\u00E4ckvidd",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 250,
+    "fordonskategoriNamn": "3 - 30 m r\u00E4ckvidd",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 251,
+    "fordonskategoriNamn": "2 - 20 m r\u00E4ckvidd",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 252,
+    "fordonskategoriNamn": "4 - \u003E30 m r\u00E4ckvidd",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 253,
+    "fordonskategoriNamn": "enligt order",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 254,
+    "fordonskategoriNamn": "4-axl  46,1-69 tm",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 255,
+    "fordonskategoriNamn": "Hjullastare 17-20 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 256,
+    "fordonskategoriNamn": "Hjullastare 20-24 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 257,
+    "fordonskategoriNamn": "Bandschaktare 12-15 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 258,
+    "fordonskategoriNamn": "Containerbil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 259,
+    "fordonskategoriNamn": "Komprimator",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 260,
+    "fordonskategoriNamn": "Lvx bil",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 261,
+    "fordonskategoriNamn": "4\u002B4-axl 39 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 262,
+    "fordonskategoriNamn": "4\u002B5-axl 48 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 263,
+    "fordonskategoriNamn": "2-axl 14,1-16,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 264,
+    "fordonskategoriNamn": "2-axl 16,1-22,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 265,
+    "fordonskategoriNamn": "2-axl 22,1-28,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 266,
+    "fordonskategoriNamn": "3-axl 16,1-22,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 267,
+    "fordonskategoriNamn": "3-axl 22,1-28,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 268,
+    "fordonskategoriNamn": "3-axl 28,1-35,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 269,
+    "fordonskategoriNamn": "3-axl 35,1-44,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 270,
+    "fordonskategoriNamn": "3-axl 44,1-55,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 271,
+    "fordonskategoriNamn": "4-axl 55,1-70,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 272,
+    "fordonskategoriNamn": "4-axl 70,1-85,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 273,
+    "fordonskategoriNamn": "4-axl 85,1-100,0 TM",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 274,
+    "fordonskategoriNamn": "Bil\u002Bsl\u00E4p",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 275,
+    "fordonskategoriNamn": "40-50 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 276,
+    "fordonskategoriNamn": "4\u002B3-axl 39 t (triosl\u00E4p)",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 277,
+    "fordonskategoriNamn": "3\u002B4-axl 45 t (Benalu)",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 278,
+    "fordonskategoriNamn": "4\u002B3-axl 39 t",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 279,
+    "fordonskategoriNamn": "Bandschaktare 15-20 ton",
+    "type": "Fordonskategorier"
+  },
+  {
+    "pk": 280,
+    "fordonskategoriNamn": "Bandschaktare 20-30 ton",
+    "type": "Fordonskategorier"
+  }
+]

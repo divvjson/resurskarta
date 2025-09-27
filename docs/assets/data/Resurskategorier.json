@@ -1,0 +1,366 @@
+[
+  {
+    "pk": 38,
+    "resurskategoriNamn": "Anl\u00E4ggningsmaskin",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 39,
+    "resurskategoriNamn": "Budbil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 40,
+    "resurskategoriNamn": "Bulkbil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 41,
+    "resurskategoriNamn": "Distributionsbil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Distribution"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 42,
+    "resurskategoriNamn": "Dragbil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 43,
+    "resurskategoriNamn": "Dragbil m Trailer",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 44,
+    "resurskategoriNamn": "Fj\u00E4rrekipage",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 45,
+    "resurskategoriNamn": "Flakbil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 46,
+    "resurskategoriNamn": "Jordbruksbil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 47,
+    "resurskategoriNamn": "Kranbil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 48,
+    "resurskategoriNamn": "Kranbil m Jibb",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 49,
+    "resurskategoriNamn": "Kranbil m Skopa",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 50,
+    "resurskategoriNamn": "Lastv\u00E4xlare",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 51,
+    "resurskategoriNamn": "Lastv\u00E4xlare m Sl\u00E4p",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 52,
+    "resurskategoriNamn": "Liftdumper",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 53,
+    "resurskategoriNamn": "Specialbil Betong",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 54,
+    "resurskategoriNamn": "Specialtrp. Bil",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 55,
+    "resurskategoriNamn": "Specialbil Maskin Kran",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 56,
+    "resurskategoriNamn": "Boggibil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 57,
+    "resurskategoriNamn": "Tippbil m Gigg",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 58,
+    "resurskategoriNamn": "Tippbil m Sl\u00E4p",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 59,
+    "resurskategoriNamn": "Volymekipage",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 60,
+    "resurskategoriNamn": "\u00D6vriga",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 61,
+    "resurskategoriNamn": "Specialtrp. L\u00E5glastare",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Maskinspecial"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 62,
+    "resurskategoriNamn": "Specialtrp. Trailer",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Maskinspecial"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 63,
+    "resurskategoriNamn": "Tankbil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "INAKTIV Betong Special"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 64,
+    "resurskategoriNamn": "Tippbil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 65,
+    "resurskategoriNamn": "Tipptrailer",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 66,
+    "resurskategoriNamn": "Kranbil m Grips\u00E5g",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 67,
+    "resurskategoriNamn": "Jordbruksbil m Sl\u00E4p",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Jordbruk"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 68,
+    "resurskategoriNamn": "Kranbil m Sl\u00E4p",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 69,
+    "resurskategoriNamn": "Kranbil Skanska",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 70,
+    "resurskategoriNamn": "Kylt / Fryst",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Krets"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 71,
+    "resurskategoriNamn": "Kranbil NCC",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 72,
+    "resurskategoriNamn": "Asfaltfordon",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 73,
+    "resurskategoriNamn": "Asfaltfordon, kran",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 74,
+    "resurskategoriNamn": "Liftdumper m Sl\u00E4p",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Milj\u00F6"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 75,
+    "resurskategoriNamn": "Enkelbil",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 76,
+    "resurskategoriNamn": "Kranbil TbgKom",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 77,
+    "resurskategoriNamn": "Kranbil m Skopa TbgKom",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 78,
+    "resurskategoriNamn": "Specialtrp. Bil m Sl\u00E4p",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 79,
+    "resurskategoriNamn": "Kranbil m Skopa NCC",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 80,
+    "resurskategoriNamn": "Kranbil m Skopa Skanska",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 81,
+    "resurskategoriNamn": "Kranbil m Jibb NCC",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 82,
+    "resurskategoriNamn": "Kranbil m Jibb Skanska",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 83,
+    "resurskategoriNamn": "TMA-fordon",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 84,
+    "resurskategoriNamn": "Maskintransport - TAG BORT",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Maskinspecial"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 85,
+    "resurskategoriNamn": "Krantrailer",
+    "fkVerksamheterNavigation": null,
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 86,
+    "resurskategoriNamn": "Kranbil m Lvx flak",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Kran"
+    },
+    "type": "Resurskategorier"
+  },
+  {
+    "pk": 87,
+    "resurskategoriNamn": "Bergflaksekipage",
+    "fkVerksamheterNavigation": {
+      "verksamhetNamn": "Anl\u00E4ggning"
+    },
+    "type": "Resurskategorier"
+  }
+]
